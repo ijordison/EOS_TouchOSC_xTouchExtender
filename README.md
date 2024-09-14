@@ -8,4 +8,4 @@ The TouchOSC session must have bi-directional MIDI connections to the X-Touch-Ex
 EOS must have, under Show Control, OSC Rx and Tx enabled, with the same ports as TouchOSC. It must also have the OSC UDP TX IP Address set to the TouchOSC's IP.
 
 
-Start the console, start the TouchOSC file, turn on the X-Touch Extender, then touch any fader to initalize.
+Start the console, start the TouchOSC file, turn on the X-Touch Extender, then touch any fader or button to initalize.
